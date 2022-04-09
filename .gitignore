@@ -16,3 +16,4 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 /dataset/rating_complete.csv
+/dataset/top_anime_unsupervised_use.csv
